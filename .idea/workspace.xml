@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58bde361-af20-4a34-841e-eb3ec702b0ee" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="58bde361-af20-4a34-841e-eb3ec702b0ee" name="更改" comment="使用了苍穹外卖的版本信息方便对版本的管理">
+      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +68,16 @@
       <updated>1707132653817</updated>
       <workItem from="1707132655068" duration="11000" />
       <workItem from="1707132734738" duration="192000" />
-      <workItem from="1707132934146" duration="1420000" />
+      <workItem from="1707132934146" duration="1729000" />
     </task>
+    <task id="LOCAL-00001" summary="使用了苍穹外卖的版本信息方便对版本的管理">
+      <created>1707134553336</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707134553336</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="使用了苍穹外卖的版本信息方便对版本的管理" />
+    <option name="LAST_COMMIT_MESSAGE" value="使用了苍穹外卖的版本信息方便对版本的管理" />
   </component>
 </project>
