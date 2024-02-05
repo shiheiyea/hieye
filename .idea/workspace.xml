@@ -4,16 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58bde361-af20-4a34-841e-eb3ec702b0ee" name="更改" comment="创建了该项目的存储的对象模块">
-      <change afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="58bde361-af20-4a34-841e-eb3ec702b0ee" name="更改" comment="在苍穹外卖那复制了返回结果的类">
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/heiye/result/Result.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,7 +73,7 @@
       <updated>1707132653817</updated>
       <workItem from="1707132655068" duration="11000" />
       <workItem from="1707132734738" duration="192000" />
-      <workItem from="1707132934146" duration="2730000" />
+      <workItem from="1707132934146" duration="3070000" />
     </task>
     <task id="LOCAL-00001" summary="使用了苍穹外卖的版本信息方便对版本的管理">
       <created>1707134553336</created>
@@ -92,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707135249780</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="创建了该项目的服务模块">
+      <created>1707135776707</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707135776707</updated>
+    </task>
+    <task id="LOCAL-00005" summary="在苍穹外卖那复制了返回结果的类">
+      <created>1707136011117</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707136011117</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +131,8 @@
     <MESSAGE value="使用了苍穹外卖的版本信息方便对版本的管理" />
     <MESSAGE value="创建了该项目的工具类" />
     <MESSAGE value="创建了该项目的存储的对象模块" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建了该项目的存储的对象模块" />
+    <MESSAGE value="创建了该项目的服务模块" />
+    <MESSAGE value="在苍穹外卖那复制了返回结果的类" />
+    <option name="LAST_COMMIT_MESSAGE" value="在苍穹外卖那复制了返回结果的类" />
   </component>
 </project>
