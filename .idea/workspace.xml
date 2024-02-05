@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58bde361-af20-4a34-841e-eb3ec702b0ee" name="更改" comment="在苍穹外卖那复制了返回结果的类">
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/heiye/result/Result.java" afterDir="false" />
-    </list>
+    <list default="true" id="58bde361-af20-4a34-841e-eb3ec702b0ee" name="更改" comment="在苍穹外卖那复制了返回结果的类" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +71,7 @@
       <updated>1707132653817</updated>
       <workItem from="1707132655068" duration="11000" />
       <workItem from="1707132734738" duration="192000" />
-      <workItem from="1707132934146" duration="3070000" />
+      <workItem from="1707132934146" duration="3167000" />
     </task>
     <task id="LOCAL-00001" summary="使用了苍穹外卖的版本信息方便对版本的管理">
       <created>1707134553336</created>
@@ -110,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707136011117</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="在苍穹外卖那复制了返回结果的类">
+      <created>1707136069148</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707136069148</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
